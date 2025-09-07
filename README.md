@@ -152,4 +152,14 @@
 - 节能模式切换时注意外设的正确初始化和去初始化
 - 串口通信需注意数据完整性校验
 
+## 实际测试效果
+以下仅仅为测试结果 不为最终展示效果
+
+<video controls src="other/VID_20250817_172831.mp4" title="Title"></video>
+
+![alt text](other/image.png)
+
+
+
+
 

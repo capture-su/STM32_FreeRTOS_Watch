@@ -155,8 +155,11 @@
 ## 实际测试效果
 以下仅仅为测试结果 不为最终展示效果
 
-<video controls src="other/VID_20250817_172831.mp4" title="Title"></video>
 
+- 展示视频链接
+【FreeRTOS_Watch】 https://www.bilibili.com/video/BV1JyYLz5EZQ/?share_source=copy_web&vd_source=2de0c536d814056744095d15eeda2042
+
+- 蓝牙上传数据
 ![alt text](other/image.png)
 
 
